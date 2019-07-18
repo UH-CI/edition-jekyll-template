@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.authors       = ['TACC', 'UH']
   s.email         = ['']
   s.homepage      = 'https://github.com/pages-themes/hacker'
-  s.summary       = 'A Jekyll theme for GitHub Pages'
+  s.summary       = 'A   Jekyll theme for GitHub Pages'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
